@@ -38,5 +38,6 @@ flip, rename, asciiart, cat
   * always use the prefix & in front of every Commands
   * Make sure to [Vote](https://discord.ly/nsfw-bot)
   * if you want new Features so please write it [here](https://github.com/The-official-Developers/BobiDobi/issues/1)
+  * sometimes there are Bugs so please report them [here](https://github.com/The-official-Developers/BobiDobi/issues/2)
   * if you want to know whats new since the last update type &new and you see it
   * for current Important Infos type &inf 
