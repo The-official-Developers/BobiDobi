@@ -13,6 +13,5 @@
   * some Commands are infos and explain what have change e.g. &new shows you what comming soon and what are new and with &stats you see stats and when new           Features will Come
   * Clean overwiew
   * Support this Bot by [Donating](https://www.paypal.com/donate?hosted_button_id=JCTVHN5J2UFSA)
-  * Supports many online radio/streams
-  * Supports local files
-  * Playlist support (both web/youtube, and local)
+  * we've can show ads in the Bot info or help Command just Donating and write to your Donation your Infos, ad stuf and a explation for your ads
+  * NSFW Commands stay in NSFW Channels so do not worry when you write the nsfw Commands in normal channels
