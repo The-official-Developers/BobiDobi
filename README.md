@@ -38,3 +38,5 @@ flip, rename, asciiart, cat
   * always use the prefix & in front of every Commands
   * Make sure to [Vote](https://discord.ly/nsfw-bot)
   * if you want new Features so please write it [here]()
+  * if you want to know whats new since the last update type &new and you see it
+  * for current Important Infos type &inf 
