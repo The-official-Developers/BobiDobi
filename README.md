@@ -15,3 +15,26 @@
   * Support this Bot by [Donating](https://www.paypal.com/donate?hosted_button_id=JCTVHN5J2UFSA)
   * we've can show ads in the Bot info or help Command just Donating and write to your Donation your Infos, ad stuf and a explation for your ads
   * NSFW Commands stay in NSFW Channels so do not worry when you write the nsfw Commands in normal channels
+
+##Commands
+
+NSFW 🔞 :
+4k, anal, ass, hentai, hkitsune, hneko, holo, kemonomimi, neko, pussy, gif, boobs
+
+Utility :
+help, stats, new, userinfo
+
+Important :
+inf
+
+Moderation :
+clear, embed
+
+Fun :
+flip, rename, asciiart, cat
+
+## Important
+  * The NSFW Commands only work in nsfw channels
+  * always use the prefix & in front of every Commands
+  * Make sure to [Vote](https://discord.ly/nsfw-bot)
+  * if you want new Features so please write it [here]()
