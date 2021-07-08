@@ -16,7 +16,7 @@
   * we've can show ads in the Bot info or help Command just Donating and write to your Donation your Infos, ad stuf and a explation for your ads
   * NSFW Commands stay in NSFW Channels so do not worry when you write the nsfw Commands in normal channels
 
-##Commands
+## Commands
 
 NSFW 🔞 :
 4k, anal, ass, hentai, hkitsune, hneko, holo, kemonomimi, neko, pussy, gif, boobs
