@@ -4,6 +4,8 @@
 [![Invite the Bot](https://img.shields.io/badge/Invite%20the%20Bot-over%20900%20Servers-blue)](https://discord.com/oauth2/authorize?client_id=856093340957540392&permissions=3020946641&scope=bot)
 [![Upvote the Bot](https://img.shields.io/badge/Upvote%20the%20Bot-over%2020405%20Users-lightgrey)](https://discordbotlist.com/bots/bobidobi/upvote)
 
+## Source Code will realised Soon
+  * We will realise the Source code for this Bot soon so keep sure to Invite him to see all Features, Live stats and Funktions
 
 ## Features
   * Easy to use
